@@ -89,6 +89,7 @@ https://colab.research.google.com/github/Vjais/Deep-Learning-projects/blob/maste
 
 ## Export model to TFJS
 - [Keras-onnx.js-tfjs](https://medium.com/@pnitsan/exporting-and-running-a-deep-learning-model-in-the-browser-including-lstm-a-straight-forward-574a766ef1d6) [_comment_]  
+- [ONNX.JS](https://microsoft.github.io/onnxjs-demo/#/) [_comment_]  
 
 ## Vision:
 - [Vision](https://visionappster.com/visionappster.html) [_comment_]  
