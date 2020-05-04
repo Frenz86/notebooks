@@ -81,6 +81,10 @@ https://colab.research.google.com/github/Vjais/Deep-Learning-projects/blob/maste
 - [kepler.gl](https://github.com/keplergl/kepler.gl/blob/master/docs/keplergl-jupyter/user-guide.md) [_comment_]  
 - [Elia-Iron_MaidenMaps](https://www.thunderforest.com/maps/spinal-map/) [_comment_]  
 
+## AI-Agricolture:
+- [Ai-Agricolture](https://www.nature.com/articles/s41438-019-0151-5) [_comment_]
+- [Ai-Agricolture-Medium] (https://towardsdatascience.com/7-reasons-why-machine-learning-is-a-game-changer-for-agriculture-1753dc56e310)
+
 ## Esercizi_Deep_Learning:
 - [Notebook-deep_Learning](https://github.com/fchollet/deep-learning-with-python-notebooks) [_comment_]  
 
