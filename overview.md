@@ -84,6 +84,7 @@ https://colab.research.google.com/github/Vjais/Deep-Learning-projects/blob/maste
 ## AI-Agricolture:
 - [Ai-Agricolture](https://www.nature.com/articles/s41438-019-0151-5) [_comment_]
 - [Ai-Agricolture-Medium](https://towardsdatascience.com/7-reasons-why-machine-learning-is-a-game-changer-for-agriculture-1753dc56e310)
+- [Ai-Agricolture-colab](https://github.com/totti0223/deep_learning_for_biologists_with_keras)
 
 ## Esercizi_Deep_Learning:
 - [Notebook-deep_Learning](https://github.com/fchollet/deep-learning-with-python-notebooks) [_comment_]  
