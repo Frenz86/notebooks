@@ -27,7 +27,7 @@ custom_edit_url: https://github.com/visiont3lab/documentation/edit/master/docs/o
 - [PythonDataScienceHandbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)[_comment_]  
 
 ## Gis GOOGLE HEART ENGINE
-- [EE-tutorial_GOD-Devastante](https://www.youtube.com/watch?v=h0pz3S6Tvx0)
+- [EE-tutorial_GOD-Devastante](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3)
 - [EE-Medium](https://medium.com/google-earth/down-to-earth-with-ai-platform-7bc363abf4fa) [_comment_]  
 - [EEwPython 1](https://colab.research.google.com/github/csaybar/EEwPython/blob/master/index.ipynb#scrollTo=sawLOXhjfkNF) [_comment_]  
 - [EEwPython 2](https://colab.research.google.com/github/csaybar/EEwPython/blob/master/cmip5.ipynb#scrollTo=glND7gZSBa7n) [_comment_]  
