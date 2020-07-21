@@ -34,6 +34,9 @@ custom_edit_url: https://github.com/visiont3lab/documentation/edit/master/docs/o
 - [Scipy-2018-data](https://github.com/sid321axn/scipy2018-geospatial-data) [_comment_]  
 - [Deep Learning Satellite images](https://github.com/robmarkcole/satellite-image-deep-learning) [_comment_]  
 
+## Best_notebooks for Vision:
+- [BestNotebookVision](https://github.com/Tessellate-Imaging/Monk_Object_Detection) [_comment_]
+
 ## Tools:
 - [schedule-operations-CRONJOB](https://github.com/alseambusher/crontab-ui) [CONTRIB-UI]  
 
