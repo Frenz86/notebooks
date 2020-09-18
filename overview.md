@@ -121,6 +121,7 @@ https://colab.research.google.com/github/Vjais/Deep-Learning-projects/blob/maste
 - [Yolo-OCR-keras-text-det](https://github.com/blackandrose/Text-Detection-using-Yolo-Algorithm-in-keras-tensorflow) [_comment_]  
 
 ## Tutorial:
+- [Amazing_ColabV2](https://github.com/huggingface/transformers/tree/master/notebooks) [Amazing ColabNLP Transformes]  
 - [TF2.0-with colab notebooks(sotto-video)--](https://www.youtube.com/watch?v=tPYj3fFJGjk) [ Colab]  
 - [Amazing_ColabV2](https://github.com/firmai/awesome-google-colab) [Amazing Colab]  
 - [INTROTODEEPLEARNING](http://introtodeeplearning.com/) [_GOOOD_]  
